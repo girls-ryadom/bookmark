@@ -68,7 +68,7 @@
     background: initial;
   }
   .menu a {
-    color: var(--veryDarkGreen);
+    color: var(--veryDarkBlue);
   }
   .menu li {
     border: none;
@@ -78,7 +78,7 @@
     border-radius: 0.5em;
     margin-top: 0;
     padding: 0.7em 2em;
-    background: var(--softGreen);
+    background: var(--softBlue);
     color: #fff;
     margin-left: 2em;
   }
